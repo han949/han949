@@ -1,4 +1,4 @@
-## hallo world
+## hello world
 我是一名地理信息科学专业的学生<br>
 我目前在学一些有关webgis开发的内容<br>
 我希望能够在GitHub上遇到一些志同道合的朋友共同进步<br>
