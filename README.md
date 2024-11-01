@@ -1,8 +1,8 @@
-## Hi there 👋
-我是一个普通的地理信息科学专业的学生<br>
+## hallo world
+我是一名地理信息科学专业的学生<br>
 我目前在学一些有关webgis开发的内容<br>
 我希望能够在GitHub上遇到一些志同道合的朋友共同进步<br>
-我同时喜欢商业，喜欢炒股
+我同时喜欢商业，喜欢炒股。
 
 <!--
 **han949/han949** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
